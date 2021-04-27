@@ -1,6 +1,6 @@
 # shopito-backend
 
-## What's is shopito
+## What is shopito
 
 shopito is a service witch can be provided to supermakets and then they will be able to sell their products super fast
 
