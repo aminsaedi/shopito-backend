@@ -1,0 +1,9 @@
+{
+    "PORT": "5000",
+    "dbShopito": "mongodb://localhost:27017/shopito",
+    "shopitoKey": "testKey1234",
+    "delay": 1,
+    "smsToken": "5479564447694261464F79495277716279573937746A4C4B4E3775556F4F5971684C667474584870767A6F3D",
+    "motherPassword": 2519,
+    "bankToken": "test"
+}

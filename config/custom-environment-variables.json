@@ -1,0 +1,8 @@
+{
+    "PORT": "PORT",
+    "shopitoKey": "shopitoKey",
+    "dbShopito": "dbShopito",
+    "smsToken": "smsToken",
+    "motherPassword": "motherPassword",
+    "bankToken": "bankToken"
+}
