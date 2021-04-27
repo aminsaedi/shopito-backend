@@ -19,8 +19,9 @@ npm start index.js
 
 ## Fetures
 
-Login users with OTP code
-Connect to online payments services
+1. Login users with OTP code
+2. Connect to online payments services
+3. ...
 
 ## Technologies
 
