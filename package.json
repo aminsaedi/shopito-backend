@@ -17,7 +17,7 @@
     "jsonwebtoken": "^9.0.0",
     "kavenegar": "^1.1.4",
     "lodash": "^4.17.21",
-    "mongoose": "^5.11.18",
+    "mongoose": "^5.13.20",
     "payir": "^1.0.0",
     "pug": "^3.0.2",
     "request": "^2.88.2"
